@@ -1,4 +1,4 @@
- <h1> Oi🤎</h2>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=35&duration=4000&pause=900&color=F75D8AB6&width=700&lines=Hi%2C+I'm+Oshana;I+am+25+years;I'm+software+engineering+student;Welcome+to+my+profile!🤎)](https://git.io/typing-svg)
 
  
  <div>
