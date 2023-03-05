@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/oshanadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oshanapaula" height="20" width="20" /></a>
  <a href="https://dev.to/oshanapaula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="oshanapaula" height="20" width="20" /></a>
 <a href="https://instagram.com/oshanaps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="oshanapaula" height="20" width="20" /></a>
+ <a href="https://stackoverflow.com/users/21337679/oshana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="oshanapaula" height="20" width="20" /></a>
 </p>
  </div>
  
