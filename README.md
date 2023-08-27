@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=35&duration=4000&pause=900&color=F75D8AB6&width=700&lines=Hi%2C+I'm+Oshana;I'm+25+years;I'm+software+engineering+student;Welcome+to+my+profile!🤎)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=35&duration=4000&pause=900&color=F75D8AB6&width=700&lines=Hi%2C+I'm+Oshana;I'm+26+years;I'm+software+engineering+student;Welcome+to+my+profile!🤎)](https://git.io/typing-svg)
  
  <div>
 <div align="center">
